@@ -76,21 +76,7 @@ Güvenlik olayı bildirme ve müdahale, tedarik zinciri riskleri, bulut güvenli
 - **Karar Ağacı**: Şüpheli durumda ne yapılacağını gösteren adım adım karar akışı.
 - **Ekler**: Siber güvenlik sözlüğü, referans kaynaklar, rol bazlı başlangıç yolları.
 
----
 
-## Teknik Gereksinimler
-
-PDF üretim hattı **Python 3.10+**, **pandoc** ve **WeasyPrint** üzerine kuruludur.
-
-### Bağımlılıkları Yükle
-
-```bash
-# Sistem bağımlılıkları (Debian/Ubuntu)
-sudo apt install pandoc
-
-# Python bağımlılıkları
-pip install weasyprint
-```
 
 ### Proje Yapısı
 
