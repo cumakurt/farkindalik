@@ -159,6 +159,6 @@ Bu kitapçık **kurum içi eğitim amacıyla** hazırlanmıştır.
 <div align="center">
 
 **NSCSOFT** · Bilgi Güvenliği Ekibi
-Sürüm 3.0 · 2025
+Sürüm 3.0 · Kasım 2026
 
 </div>
